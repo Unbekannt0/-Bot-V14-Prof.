@@ -21,4 +21,4 @@ make sure to type 'npm i' before proceeding, so all the packages will be install
 
 
 
-<img align="right" alt="GIF" height="200px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Trefoil_knot_conways_game_of_life_without_background_and_fitting.gif"/>
+<img align="right" alt="GIF" height="200px" src="https://64.media.tumblr.com/72d5855e55a1971645b927c14debc7ce/tumblr_mtjget4P4m1ru39xmo1_500.gif"/>
