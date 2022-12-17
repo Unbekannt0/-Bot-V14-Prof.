@@ -99,7 +99,7 @@ client.login(client.config.token).then(() => {
     //handleLogs (client);
     client.user.setPresence({ status: 'idle' });
     client.user.setUsername(`TheAdmin`)
-    client.user.setActivity('The Admin', { type: ActivityType.Streaming, url: "https://www.twitch.tv/ashrlay"  });
+    client.user.setActivity('name or smt', { type: ActivityType.Streaming, url: "https://www.twitch.tv/ashrlay"  });
 
 
 
@@ -121,7 +121,7 @@ const asciiText = `
 ██║╚██╔╝██║██║░░██║██║░░██║██║╚██╔╝██║██╔══██║██║██║░░░░░
 ██║░╚═╝░██║╚█████╔╝██████╔╝██║░╚═╝░██║██║░░██║██║███████╗
 ╚═╝░░░░░╚═╝░╚════╝░╚═════╝░╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝╚══════╝
-`.underline.blue + `Version ${projectVersion} By P R O F .#7524.
+`.underline.blue + `Version ${projectVersion} By P R O F .#7524. // Dont remove anything here! THAT'S a credit by PROF . --> Copyright 2022 © --> look at README!
 `.underline.cyan;
 
 console.log(asciiText);
