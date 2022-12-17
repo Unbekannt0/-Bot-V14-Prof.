@@ -1,0 +1,12 @@
+{
+    "token": "MTAyMzE3NjE2NDIzMzE4MzI2Mw.GS3fAs.RQ_dc504lLrdFIQ_QH9auVJAC4F3LroOzGd4Pc",
+    "mongodb": "mongodb+srv://theadmin:Ichbinashkan.7@theadmin.qd6tkoa.mongodb.net/?retryWrites=true&w=majority",
+    "db": "mongodb+srv://theadmin:Ichbinashkan.7@theadmin.qd6tkoa.mongodb.net/?retryWrites=true&w=majority",
+    "everyone": "954279641722544149",
+    "ticketParent": "954279642603356170",
+    "openticket": "1045671863210217593",
+    "transcripts": "1045672092852563978",
+    "hostedBy": true, 
+    "guildId": "954279641722544149",
+    "everyoneMention": true 
+}
