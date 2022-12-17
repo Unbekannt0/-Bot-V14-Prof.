@@ -1,2 +1,5 @@
 # -Bot-V14-Prof.
 This is the weekly bot. By a new youtube video, I will upload a new code (file)
+## What to do!
+
+make sure to type 'npm i' before proceeding, so all the packages will be installed automatically.
