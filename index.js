@@ -121,7 +121,7 @@ const asciiText = `
 ██║╚██╔╝██║██║░░██║██║░░██║██║╚██╔╝██║██╔══██║██║██║░░░░░
 ██║░╚═╝░██║╚█████╔╝██████╔╝██║░╚═╝░██║██║░░██║██║███████╗
 ╚═╝░░░░░╚═╝░╚════╝░╚═════╝░╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝╚══════╝
-`.underline.blue + `Version ${projectVersion} By P R O F .#7524. // Dont remove anything here! THAT'S a credit by PROF . --> Copyright 2022 © --> look at README!
+`.underline.blue + `Version ${projectVersion} By P R O F .#7524. // Dont remove anything here! THAT'S a credit by PROF . --> Copyright 2022 © --> look at LICENSE!
 `.underline.cyan;
 
 console.log(asciiText);
