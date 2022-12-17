@@ -12,4 +12,13 @@ make sure to type 'npm i' before proceeding, so all the packages will be install
 
 - I will make a bot (patreon level 3) of your wish
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
+## How to contact me
+
+📫 Mail: anyofanonymous@gmail.com
+
+📫 Discord: Prof.#4438
+
+
+
+
+<img align="right" alt="GIF" height="200px" src="https://thumbs.gfycat.com/VapidNegligibleArmyworm.webp" />
