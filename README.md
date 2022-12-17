@@ -11,3 +11,5 @@ make sure to type 'npm i' before proceeding, so all the packages will be install
 - You can have any command that you want. 
 
 - I will make a bot (patreon level 3) of your wish
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
