@@ -8,7 +8,7 @@ make sure to type 'npm i' before proceeding, so all the packages will be install
 
 - As a patreon I will get the hole system of my bot.
 
-- As a patreon you will get a FREE HOSTING
+- As a patreon you will get a **FREE HOSTING**
 
 - You can have any command that you want. 
 
@@ -21,7 +21,7 @@ make sure to type 'npm i' before proceeding, so all the packages will be install
 📫 Discord: Prof.#4438
 
 
-## FREE HOSTING 
+## *FREE HOSTING* 
 
 This hosting server is made by 𝔻𝕒𝕞𝕚𝕒𝕟.™#0103 
 
